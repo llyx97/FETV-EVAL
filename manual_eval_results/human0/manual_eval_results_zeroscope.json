@@ -1,0 +1,619 @@
+{"0": {"video_id": "video9033", "alignment": 4, "static_quality": 3, "temporal_quality": 2}}
+{"1": {"video_id": "video9376", "alignment": 5, "static_quality": 4, "temporal_quality": 4}}
+{"2": {"video_id": "video9957", "alignment": 5, "static_quality": 2, "temporal_quality": 3}}
+{"3": {"video_id": "video8601", "alignment": 1, "static_quality": 3, "temporal_quality": 4}}
+{"4": {"video_id": "video8387", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"5": {"video_id": "video8536", "alignment": 5, "static_quality": 4, "temporal_quality": 3}}
+{"6": {"video_id": "video8114", "alignment": 2, "static_quality": 3, "temporal_quality": 4}}
+{"7": {"video_id": "video7915", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"8": {"video_id": "video8455", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"9": {"video_id": "video9772", "alignment": 5, "static_quality": 5, "temporal_quality": 4}}
+{"10": {"video_id": "1012955795", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"11": {"video_id": "video7100", "alignment": 5, "static_quality": 4, "temporal_quality": 4}}
+{"12": {"video_id": "video9062", "alignment": 2, "static_quality": 3, "temporal_quality": 3}}
+{"13": {"video_id": "video9311", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"14": {"video_id": "video9460", "alignment": 1, "static_quality": 5, "temporal_quality": 3}}
+{"15": {"video_id": "video7244", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"16": {"video_id": "video8795", "alignment": 3, "static_quality": 2, "temporal_quality": 3}}
+{"17": {"video_id": "video9194", "alignment": 4, "static_quality": 2, "temporal_quality": 2}}
+{"18": {"video_id": "video9321", "alignment": 3, "static_quality": 4, "temporal_quality": 4}}
+{"19": {"video_id": "video9675", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"20": {"video_id": "video9819", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"21": {"video_id": "video9849", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"22": {"video_id": "1860838", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"23": {"video_id": "1006807024", "alignment": 4, "static_quality": 4, "temporal_quality": 5}}
+{"24": {"video_id": "31839697", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"25": {"video_id": "video7761", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"26": {"video_id": "2035465", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"27": {"video_id": "video7594", "alignment": 4, "static_quality": 4, "temporal_quality": 5}}
+{"28": {"video_id": "video9481", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"29": {"video_id": "25618907", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"30": {"video_id": "video9511_1", "alignment": 2, "static_quality": 4, "temporal_quality": 5}}
+{"31": {"video_id": "22953001", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"32": {"video_id": "video9826", "alignment": 5, "static_quality": 4, "temporal_quality": 5}}
+{"33": {"video_id": "video7137", "alignment": 4, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"34": {"video_id": "4752161", "alignment": 4, "static_quality": 5, "temporal_quality": 5}}
+{"35": {"video_id": "5000996", "alignment": 3, "static_quality": 5, "temporal_quality": 5}}
+{"36": {"video_id": "video8882", "alignment": 5, "static_quality": 2, "temporal_quality": 3}}
+{"37": {"video_id": "video7945", "alignment": 4, "static_quality": 2, "temporal_quality": 3}}
+{"38": {"video_id": "video9328", "alignment": 3, "static_quality": 2, "temporal_quality": 3}}
+{"39": {"video_id": "video7255", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"40": {"video_id": "video7307", "alignment": 5, "static_quality": 3, "temporal_quality": 3}}
+{"41": {"video_id": "video8497", "alignment": 4, "static_quality": 2, "temporal_quality": 3}}
+{"42": {"video_id": "video7245", "alignment": 3, "static_quality": 2, "temporal_quality": 4}}
+{"43": {"video_id": "video8871", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"44": {"video_id": "video9252", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"45": {"video_id": "video9955", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"46": {"video_id": "video9629", "alignment": 3, "static_quality": 2, "temporal_quality": 4}}
+{"47": {"video_id": "video9092", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"48": {"video_id": "video7226", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"49": {"video_id": "1056147005", "alignment": 4, "fine-grained_alignment": {"camera view": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"50": {"video_id": "1037520449", "alignment": 3, "fine-grained_alignment": {"camera view": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 4}}
+{"51": {"video_id": "1038806252", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"52": {"video_id": "1022570278", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"53": {"video_id": "1042956187", "alignment": 3, "fine-grained_alignment": {"camera view": 2}, "static_quality": 3, "temporal_quality": 4}}
+{"54": {"video_id": "34350805", "alignment": 3, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"55": {"video_id": "1031765333", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "color": 3, "speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"56": {"video_id": "1039335197", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"57": {"video_id": "1025304926", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"58": {"video_id": "1017107038", "alignment": 3, "fine-grained_alignment": {"camera view": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"59": {"video_id": "28416544", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "speed": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"60": {"video_id": "1056794021", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"61": {"video_id": "1028199887", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "color": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"62": {"video_id": "video7219", "alignment": 3, "fine-grained_alignment": {"camera view": 1, "color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"63": {"video_id": "1014038519", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"64": {"video_id": "1009242149", "alignment": 2, "fine-grained_alignment": {"camera view": 3, "color": 2}, "static_quality": 4, "temporal_quality": 4}}
+{"65": {"video_id": "1061563237", "alignment": 2, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"66": {"video_id": "video8869", "alignment": 3, "fine-grained_alignment": {"camera view": 1}, "static_quality": 3, "temporal_quality": 5}}
+{"67": {"video_id": "video8787", "alignment": 4, "fine-grained_alignment": {"camera view": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"68": {"video_id": "1006927693", "alignment": 3, "fine-grained_alignment": {"camera view": 1, "speed": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"69": {"video_id": "video8768", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"70": {"video_id": "1047754408", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"71": {"video_id": "video8099", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"72": {"video_id": "video7606", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"73": {"video_id": "1008232396", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"74": {"video_id": "video7023", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"75": {"video_id": "video8105", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"76": {"video_id": "video7837", "alignment": 3, "fine-grained_alignment": {"camera view": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"77": {"video_id": "1027328231", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"78": {"video_id": "29797315", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"79": {"video_id": "29223100", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"80": {"video_id": "1039250324", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"81": {"video_id": "1021805248", "alignment": 5, "fine-grained_alignment": {"camera view": 3, "speed": 2}, "static_quality": 5, "temporal_quality": 5}}
+{"82": {"video_id": "30305434", "alignment": 4, "fine-grained_alignment": {"camera view": 1, "speed": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"83": {"video_id": "1046043280", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"84": {"video_id": "25460006", "alignment": 5, "fine-grained_alignment": {"camera view": 3, "color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"85": {"video_id": "1047136504", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"86": {"video_id": "12160229", "alignment": 2, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"87": {"video_id": "1029169490", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"88": {"video_id": "19300912", "alignment": 4, "fine-grained_alignment": {"camera view": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"89": {"video_id": "10296182", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"90": {"video_id": "11785907", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 4}}
+{"91": {"video_id": "1024989728", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"92": {"video_id": "30069892", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"93": {"video_id": "video7923", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"94": {"video_id": "27254191", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"95": {"video_id": "video8312", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"96": {"video_id": "3109510", "alignment": 4, "static_quality": 5, "temporal_quality": 5}}
+{"97": {"video_id": "1032804956", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"98": {"video_id": "video8888", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"99": {"video_id": "3926288", "alignment": 2, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"100": {"video_id": "video9043", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"101": {"video_id": "1016298361", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"102": {"video_id": "26735620", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"103": {"video_id": "32118685", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"104": {"video_id": "video8134", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"105": {"video_id": "1044802729", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"106": {"video_id": "14631244", "alignment": 4, "fine-grained_alignment": {"speed": 2}, "static_quality": 4, "temporal_quality": 4}}
+{"107": {"video_id": "25971089", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"108": {"video_id": "7930471", "alignment": 3, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"109": {"video_id": "1052636933", "alignment": 5, "fine-grained_alignment": {"camera view": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"110": {"video_id": "1059027371", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"111": {"video_id": "1024811723", "alignment": 5, "fine-grained_alignment": {"camera view": 3, "color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"112": {"video_id": "video8218", "alignment": 1, "static_quality": 4, "temporal_quality": 4}}
+{"113": {"video_id": "26315423", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"114": {"video_id": "1060374179", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"115": {"video_id": "1017167935", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"116": {"video_id": "video9807", "alignment": 1, "fine-grained_alignment": {"camera view": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"117": {"video_id": "19800655", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"118": {"video_id": "6535001", "alignment": 4, "fine-grained_alignment": {"camera view": 1, "motion direction": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"119": {"video_id": "28290511", "alignment": 4, "fine-grained_alignment": {"camera view": 2}, "static_quality": 5, "temporal_quality": 5}}
+{"120": {"video_id": "video9098", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"121": {"video_id": "video7927", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"122": {"video_id": "1050422716", "alignment": 3, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"123": {"video_id": "1011357206", "alignment": 4, "fine-grained_alignment": {"quantity": 3, "camera view": 3, "color": 3, "motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"124": {"video_id": "23493322", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"125": {"video_id": "video7126", "alignment": 3, "fine-grained_alignment": {"quantity": 1, "camera view": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"126": {"video_id": "7933006", "alignment": 3, "fine-grained_alignment": {"color": 3, "event order": 1, "motion direction": 2}, "static_quality": 4, "temporal_quality": 5}}
+{"127": {"video_id": "1034583872", "alignment": 5, "fine-grained_alignment": {"camera view": 3, "color": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"128": {"video_id": "9920132", "alignment": 4, "fine-grained_alignment": {"camera view": 1}, "static_quality": 5, "temporal_quality": 4}}
+{"129": {"video_id": "33406591", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"130": {"video_id": "1027875929", "alignment": 4, "fine-grained_alignment": {"camera view": 2}, "static_quality": 4, "temporal_quality": 5}}
+{"131": {"video_id": "15680626", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"132": {"video_id": "video7223", "alignment": 5, "fine-grained_alignment": {"camera view": 3, "color": 3}, "static_quality": 2, "temporal_quality": 5}}
+{"133": {"video_id": "1066417801", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"134": {"video_id": "1029287573", "alignment": 3, "fine-grained_alignment": {"camera view": 3, "color": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"135": {"video_id": "29666524", "alignment": 4, "fine-grained_alignment": {"camera view": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"136": {"video_id": "video7099", "alignment": 5, "fine-grained_alignment": {"camera view": 3}, "static_quality": 2, "temporal_quality": 3}}
+{"137": {"video_id": "video7616", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 2}}
+{"138": {"video_id": "video7161", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 2}}
+{"139": {"video_id": "video8646", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"140": {"video_id": "video8849", "alignment": 4, "fine-grained_alignment": {"color": 3, "motion direction": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"141": {"video_id": "video7113", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"142": {"video_id": "video8751", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"143": {"video_id": "video8830", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"144": {"video_id": "video7540", "alignment": 2, "fine-grained_alignment": {"color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"145": {"video_id": "video8342", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"146": {"video_id": "video7330", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"147": {"video_id": "video9185", "alignment": 3, "fine-grained_alignment": {"color": 2}, "static_quality": 4, "temporal_quality": 5}}
+{"148": {"video_id": "video7505", "alignment": 4, "fine-grained_alignment": {"color": 2}, "static_quality": 3, "temporal_quality": 4}}
+{"149": {"video_id": "video7323", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"150": {"video_id": "video7922", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"151": {"video_id": "video9749", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"152": {"video_id": "video8261", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"153": {"video_id": "video7201", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"154": {"video_id": "video7599", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"155": {"video_id": "video8460", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"156": {"video_id": "8874712", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"157": {"video_id": "6641096", "alignment": 5, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"158": {"video_id": "34381054", "alignment": 4, "fine-grained_alignment": {"color": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"159": {"video_id": "1009230398", "alignment": 4, "fine-grained_alignment": {"color": 2, "speed": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"160": {"video_id": "video8999", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"161": {"video_id": "5989160", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"162": {"video_id": "1038724622", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"163": {"video_id": "24597506", "alignment": 5, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 4}}
+{"164": {"video_id": "video7280", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"165": {"video_id": "video9576", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"166": {"video_id": "video8883", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"167": {"video_id": "video7173", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"168": {"video_id": "video9699", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"169": {"video_id": "video7797", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"170": {"video_id": "1012776881", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"171": {"video_id": "23415526", "alignment": 3, "fine-grained_alignment": {"color": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"172": {"video_id": "1017709846", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"173": {"video_id": "1028967311", "alignment": 5, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"174": {"video_id": "1045168879", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"175": {"video_id": "1012487972", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"176": {"video_id": "1055868485", "alignment": 3, "fine-grained_alignment": {"camera view": 3, "color": 3, "speed": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"177": {"video_id": "1057410991", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"178": {"video_id": "video8770", "alignment": 3, "fine-grained_alignment": {"color": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"179": {"video_id": "1469251", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"180": {"video_id": "1024760066", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"181": {"video_id": "1010746451", "alignment": 5, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"182": {"video_id": "video8073", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"183": {"video_id": "video8545", "alignment": 2, "fine-grained_alignment": {"color": 2}, "static_quality": 4, "temporal_quality": 4}}
+{"184": {"video_id": "1048271179", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"185": {"video_id": "video9889", "alignment": 4, "fine-grained_alignment": {"color": 2}, "static_quality": 4, "temporal_quality": 4}}
+{"186": {"video_id": "1044532711", "alignment": 4, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"187": {"video_id": "15093532", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"188": {"video_id": "video9850", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"189": {"video_id": "1042851982", "alignment": 5, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"190": {"video_id": "1010383730", "alignment": 3, "fine-grained_alignment": {"color": 1, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"191": {"video_id": "video8871", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 5}}
+{"192": {"video_id": "video7061", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"193": {"video_id": "947095", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 5, "temporal_quality": 4}}
+{"194": {"video_id": "video9774", "alignment": 3, "fine-grained_alignment": {"color": 3, "motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"195": {"video_id": "video9831", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"196": {"video_id": "34548481", "alignment": 5, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"197": {"video_id": "video9535", "alignment": 4, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"198": {"video_id": "video9103", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"199": {"video_id": "video8179", "alignment": 4, "fine-grained_alignment": {"color": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"200": {"video_id": "video8138", "alignment": 3, "fine-grained_alignment": {"color": 3, "motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"201": {"video_id": "video9438", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"202": {"video_id": "video9147", "alignment": 2, "fine-grained_alignment": {"quantity": 1, "color": 1, "speed": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"203": {"video_id": "video8809", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"204": {"video_id": "video8532", "alignment": 3, "fine-grained_alignment": {"color": 2, "motion direction": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"205": {"video_id": "24633554", "alignment": 3, "fine-grained_alignment": {"camera view": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"206": {"video_id": "1040015822", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"207": {"video_id": "video7931", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"208": {"video_id": "video8980", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"209": {"video_id": "1013406902", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"210": {"video_id": "video7262", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"211": {"video_id": "24944687", "alignment": 5, "static_quality": 3, "temporal_quality": 3}}
+{"212": {"video_id": "video7992", "alignment": 2, "static_quality": 3, "temporal_quality": 3}}
+{"213": {"video_id": "video7623", "alignment": 3, "static_quality": 2, "temporal_quality": 3}}
+{"214": {"video_id": "video7953", "alignment": 4, "static_quality": 4, "temporal_quality": 4}}
+{"215": {"video_id": "video9418", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"216": {"video_id": "video8320", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"217": {"video_id": "video7531", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"218": {"video_id": "video7785", "alignment": 4, "static_quality": 5, "temporal_quality": 5}}
+{"219": {"video_id": "video7038", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"220": {"video_id": "video9198", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"221": {"video_id": "video8524", "alignment": 3, "static_quality": 5, "temporal_quality": 5}}
+{"222": {"video_id": "1023702667", "alignment": 4, "static_quality": 5, "temporal_quality": 5}}
+{"223": {"video_id": "video8659", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 5}}
+{"224": {"video_id": "video8188", "alignment": 5, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"225": {"video_id": "video9151", "alignment": 4, "static_quality": 4, "temporal_quality": 4}}
+{"226": {"video_id": "10303193", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 5, "temporal_quality": 4}}
+{"227": {"video_id": "video9746", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"228": {"video_id": "video8514", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"229": {"video_id": "29790448", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"230": {"video_id": "video8359", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"231": {"video_id": "1025869787", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"232": {"video_id": "1027828640", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"233": {"video_id": "1027829897", "alignment": 5, "fine-grained_alignment": {"color": 2}, "static_quality": 5, "temporal_quality": 5}}
+{"234": {"video_id": "1016570857", "alignment": 4, "fine-grained_alignment": {"color": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"235": {"video_id": "1024408745", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"236": {"video_id": "video7442", "alignment": 3, "static_quality": 4, "temporal_quality": 4}}
+{"237": {"video_id": "video9354", "alignment": 2, "fine-grained_alignment": {"quantity": 2}, "static_quality": 3, "temporal_quality": 4}}
+{"238": {"video_id": "10461833", "alignment": 3, "static_quality": 5, "temporal_quality": 5}}
+{"239": {"video_id": "1059429176", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"240": {"video_id": "31681792", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"241": {"video_id": "1013723093", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"242": {"video_id": "1051341292", "alignment": 4, "static_quality": 4, "temporal_quality": 5}}
+{"243": {"video_id": "6543449", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"244": {"video_id": "video7778", "alignment": 3, "static_quality": 3, "temporal_quality": 3}}
+{"245": {"video_id": "video7087", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"246": {"video_id": "1024118015", "alignment": 3, "static_quality": 3, "temporal_quality": 3}}
+{"247": {"video_id": "1007954578", "alignment": 2, "static_quality": 3, "temporal_quality": 4}}
+{"248": {"video_id": "1041790795", "alignment": 1, "static_quality": 4, "temporal_quality": 4}}
+{"249": {"video_id": "video7544", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"250": {"video_id": "1049658034", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"251": {"video_id": "video9136", "alignment": 4, "static_quality": 2, "temporal_quality": 2}}
+{"252": {"video_id": "video9396", "alignment": 3, "fine-grained_alignment": {"speed": 2}, "static_quality": 2, "temporal_quality": 2}}
+{"253": {"video_id": "video8089", "alignment": 3, "fine-grained_alignment": {"color": 3, "event order": 1}, "static_quality": 3, "temporal_quality": 2}}
+{"254": {"video_id": "31746892", "alignment": 4, "static_quality": 2, "temporal_quality": 2}}
+{"255": {"video_id": "video9723", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"256": {"video_id": "video7691", "alignment": 5, "fine-grained_alignment": {"quantity": 3}, "static_quality": 2, "temporal_quality": 2}}
+{"257": {"video_id": "video8084", "alignment": 2, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 2}}
+{"258": {"video_id": "video9461", "alignment": 2, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"259": {"video_id": "video7735", "alignment": 5, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"260": {"video_id": "video9982", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"261": {"video_id": "video9451", "alignment": 3, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"262": {"video_id": "video7895", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"263": {"video_id": "video9926", "alignment": 3, "fine-grained_alignment": {"quantity": 3}, "static_quality": 2, "temporal_quality": 3}}
+{"264": {"video_id": "video8165", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"265": {"video_id": "video7566", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"266": {"video_id": "video9622", "alignment": 4, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"267": {"video_id": "video8685", "alignment": 4, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"268": {"video_id": "video7628", "alignment": 4, "fine-grained_alignment": {"quantity": 3}, "static_quality": 2, "temporal_quality": 2}}
+{"269": {"video_id": "video8372", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"270": {"video_id": "video7979", "alignment": 3, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"271": {"video_id": "video7714", "alignment": 5, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"272": {"video_id": "video9327", "alignment": 5, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"273": {"video_id": "video9617", "alignment": 4, "fine-grained_alignment": {"quantity": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"274": {"video_id": "video7155", "alignment": 4, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"275": {"video_id": "video7816", "alignment": 5, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"276": {"video_id": "video7488", "alignment": 2, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"277": {"video_id": "625741", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"278": {"video_id": "video7795", "alignment": 4, "fine-grained_alignment": {"quantity": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"279": {"video_id": "video7958", "alignment": 4, "fine-grained_alignment": {"quantity": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"280": {"video_id": "video8858", "alignment": 5, "fine-grained_alignment": {"quantity": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"281": {"video_id": "video9064", "alignment": 5, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"282": {"video_id": "25272683", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"283": {"video_id": "video9133", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"284": {"video_id": "video7206", "alignment": 2, "fine-grained_alignment": {"quantity": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"285": {"video_id": "video8220", "alignment": 3, "fine-grained_alignment": {"quantity": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"286": {"video_id": "video7538", "alignment": 4, "fine-grained_alignment": {"quantity": 3}, "static_quality": 2, "temporal_quality": 2}}
+{"287": {"video_id": "video7337", "alignment": 3, "fine-grained_alignment": {"quantity": 2}, "static_quality": 2, "temporal_quality": 3}}
+{"288": {"video_id": "video9784", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"289": {"video_id": "video9077", "alignment": 2, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"290": {"video_id": "video9214", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"291": {"video_id": "video9017", "alignment": 2, "fine-grained_alignment": {"quantity": 1, "motion direction": 1, "event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"292": {"video_id": "video8901", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"293": {"video_id": "video9167", "alignment": 4, "fine-grained_alignment": {"event order": 2}, "static_quality": 2, "temporal_quality": 2}}
+{"294": {"video_id": "video8139", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"295": {"video_id": "video7059", "alignment": 3, "static_quality": 4, "temporal_quality": 4}}
+{"296": {"video_id": "video9034", "alignment": 5, "static_quality": 3, "temporal_quality": 3}}
+{"297": {"video_id": "video7053", "alignment": 3, "static_quality": 3, "temporal_quality": 3}}
+{"298": {"video_id": "video9100", "alignment": 5, "static_quality": 3, "temporal_quality": 3}}
+{"299": {"video_id": "video7939", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"300": {"video_id": "video7791", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"301": {"video_id": "video7912", "alignment": 3, "static_quality": 2, "temporal_quality": 3}}
+{"302": {"video_id": "video8675", "alignment": 5, "static_quality": 3, "temporal_quality": 3}}
+{"303": {"video_id": "video9637", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"304": {"video_id": "video7423", "alignment": 3, "static_quality": 3, "temporal_quality": 3}}
+{"305": {"video_id": "video7162", "alignment": 2, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"306": {"video_id": "video7084", "alignment": 3, "static_quality": 5, "temporal_quality": 4}}
+{"307": {"video_id": "video9132", "alignment": 2, "static_quality": 3, "temporal_quality": 3}}
+{"308": {"video_id": "video7424", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"309": {"video_id": "video7436", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"310": {"video_id": "video8712", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"311": {"video_id": "1058916356", "alignment": 5, "static_quality": 4, "temporal_quality": 5}}
+{"312": {"video_id": "1012894019", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"313": {"video_id": "video8053", "alignment": 5, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"314": {"video_id": "video8467", "alignment": 4, "static_quality": 5, "temporal_quality": 4}}
+{"315": {"video_id": "video9735", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"316": {"video_id": "1052374027", "alignment": 4, "static_quality": 5, "temporal_quality": 4}}
+{"317": {"video_id": "1008273085", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"318": {"video_id": "video9671", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"319": {"video_id": "video7130", "alignment": 4, "fine-grained_alignment": {"motion direction": 2}, "static_quality": 4, "temporal_quality": 5}}
+{"320": {"video_id": "3635639", "alignment": 5, "static_quality": 4, "temporal_quality": 4}}
+{"321": {"video_id": "video9263", "alignment": 4, "static_quality": 4, "temporal_quality": 4}}
+{"322": {"video_id": "video7060", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"323": {"video_id": "video7152", "alignment": 3, "static_quality": 3, "temporal_quality": 3}}
+{"324": {"video_id": "1056361", "alignment": 5, "static_quality": 4, "temporal_quality": 4}}
+{"325": {"video_id": "20244736", "alignment": 3, "static_quality": 5, "temporal_quality": 5}}
+{"326": {"video_id": "video9435", "alignment": 2, "static_quality": 4, "temporal_quality": 4}}
+{"327": {"video_id": "1023866038", "alignment": 2, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"328": {"video_id": "video9325", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"329": {"video_id": "1022079154", "alignment": 3, "static_quality": 4, "temporal_quality": 5}}
+{"330": {"video_id": "1058911445", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"331": {"video_id": "1013523053", "alignment": 4, "static_quality": 4, "temporal_quality": 4}}
+{"332": {"video_id": "1027478828", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"333": {"video_id": "29994298", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"334": {"video_id": "1044966148", "alignment": 5, "static_quality": 5, "temporal_quality": 5}}
+{"335": {"video_id": "video8106", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"336": {"video_id": "video9864", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"337": {"video_id": "video8248", "alignment": 3, "static_quality": 4, "temporal_quality": 5}}
+{"338": {"video_id": "video7103", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"339": {"video_id": "video7305", "alignment": 4, "static_quality": 2, "temporal_quality": 3}}
+{"340": {"video_id": "video9292", "alignment": 4, "static_quality": 3, "temporal_quality": 3}}
+{"341": {"video_id": "video7314", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"342": {"video_id": "video7981", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"343": {"video_id": "video7174", "alignment": 3, "fine-grained_alignment": {"quantity": 1, "motion direction": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"344": {"video_id": "video7974", "alignment": 2, "fine-grained_alignment": {"quantity": 2, "motion direction": 1}, "static_quality": 2, "temporal_quality": 2}}
+{"345": {"video_id": "video7614", "alignment": 3, "fine-grained_alignment": {"color": 3, "motion direction": 2}, "static_quality": 3, "temporal_quality": 4}}
+{"346": {"video_id": "video9907", "alignment": 3, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"347": {"video_id": "video9721", "alignment": 2, "fine-grained_alignment": {"quantity": 1, "motion direction": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"348": {"video_id": "video8801", "alignment": 4, "fine-grained_alignment": {"quantity": 3, "motion direction": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"349": {"video_id": "video9056", "alignment": 2, "fine-grained_alignment": {"color": 3, "motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"350": {"video_id": "video8665", "alignment": 2, "fine-grained_alignment": {"color": 2, "motion direction": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"351": {"video_id": "video9767", "alignment": 3, "fine-grained_alignment": {"color": 3, "motion direction": 1}, "static_quality": 3, "temporal_quality": 2}}
+{"352": {"video_id": "video8235", "alignment": 4, "fine-grained_alignment": {"color": 3, "motion direction": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"353": {"video_id": "video9884", "alignment": 3, "fine-grained_alignment": {"quantity": 2, "motion direction": 2}, "static_quality": 2, "temporal_quality": 2}}
+{"354": {"video_id": "video7261", "alignment": 4, "fine-grained_alignment": {"color": 3, "motion direction": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"355": {"video_id": "video8851", "alignment": 3, "fine-grained_alignment": {"quantity": 2, "motion direction": 2}, "static_quality": 3, "temporal_quality": 4}}
+{"356": {"video_id": "video8369", "alignment": 3, "fine-grained_alignment": {"quantity": 3, "motion direction": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"357": {"video_id": "1027571537", "alignment": 5, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"358": {"video_id": "1014900226", "alignment": 3, "fine-grained_alignment": {"camera view": 3, "motion direction": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"359": {"video_id": "video8540", "alignment": 2, "fine-grained_alignment": {"quantity": 1, "motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"360": {"video_id": "video7542", "alignment": 4, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"361": {"video_id": "video8868", "alignment": 4, "fine-grained_alignment": {"color": 3, "motion direction": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"362": {"video_id": "video7646", "alignment": 2, "fine-grained_alignment": {"color": 2, "motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"363": {"video_id": "1023214858", "alignment": 1, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"364": {"video_id": "video8335", "alignment": 2, "fine-grained_alignment": {"motion direction": 2}, "static_quality": 4, "temporal_quality": 4}}
+{"365": {"video_id": "1722709", "alignment": 1, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"366": {"video_id": "1043568742", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 2, "temporal_quality": 4}}
+{"367": {"video_id": "1054048892", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "motion direction": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"368": {"video_id": "1011391454", "alignment": 4, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"369": {"video_id": "1037649686", "alignment": 4, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"370": {"video_id": "1042805746", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"371": {"video_id": "video8692", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"372": {"video_id": "video8103", "alignment": 2, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"373": {"video_id": "1050005674", "alignment": 2, "fine-grained_alignment": {"motion direction": 1, "speed": 2}, "static_quality": 4, "temporal_quality": 4}}
+{"374": {"video_id": "1058856040", "alignment": 5, "fine-grained_alignment": {"motion direction": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"375": {"video_id": "video8190", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"376": {"video_id": "video9912", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"377": {"video_id": "1036869083", "alignment": 3, "fine-grained_alignment": {"color": 3, "motion direction": 2}, "static_quality": 3, "temporal_quality": 4}}
+{"378": {"video_id": "25833608", "alignment": 4, "fine-grained_alignment": {"color": 3, "motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"379": {"video_id": "1030776995", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"380": {"video_id": "video8678", "alignment": 5, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"381": {"video_id": "1020127456", "alignment": 4, "fine-grained_alignment": {"color": 3, "quantity": 3, "motion direction": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"382": {"video_id": "1021439770", "alignment": 5, "fine-grained_alignment": {"camera view": 3, "motion direction": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"383": {"video_id": "video8203", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"384": {"video_id": "video8054", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"385": {"video_id": "video8102", "alignment": 2, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 1, "temporal_quality": 2}}
+{"386": {"video_id": "9322241", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"387": {"video_id": "16495429", "alignment": 3, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"388": {"video_id": "video7779", "alignment": 2, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 2, "temporal_quality": 2}}
+{"389": {"video_id": "video8867", "alignment": 5, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"390": {"video_id": "video8431", "alignment": 2, "fine-grained_alignment": {"color": 3, "motion direction": 1, "speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"391": {"video_id": "video8278", "alignment": 2, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"392": {"video_id": "video7780", "alignment": 4, "fine-grained_alignment": {"motion direction": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"393": {"video_id": "video9377", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"394": {"video_id": "video9939", "alignment": 4, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"395": {"video_id": "video9446", "alignment": 2, "fine-grained_alignment": {"quantity": 3, "motion direction": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"396": {"video_id": "video8971", "alignment": 2, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 3}}
+{"397": {"video_id": "12288884", "alignment": 5, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"398": {"video_id": "1035809231", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"399": {"video_id": "video9148", "alignment": 4, "fine-grained_alignment": {"motion direction": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"400": {"video_id": "video8922", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"401": {"video_id": "video8101", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"402": {"video_id": "video8054", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"403": {"video_id": "video7021", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"404": {"video_id": "video7654", "alignment": 3, "fine-grained_alignment": {"event order": 2}, "static_quality": 4, "temporal_quality": 4}}
+{"405": {"video_id": "video9426", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 2, "temporal_quality": 2}}
+{"406": {"video_id": "video9307", "alignment": 3, "fine-grained_alignment": {"event order": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"407": {"video_id": "video9618", "alignment": 3, "fine-grained_alignment": {"color": 3, "event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"408": {"video_id": "video9528", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 2, "temporal_quality": 4}}
+{"409": {"video_id": "video7258", "alignment": 3, "fine-grained_alignment": {"quantity": 3, "event order": 2}, "static_quality": 2, "temporal_quality": 2}}
+{"410": {"video_id": "video9011", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"411": {"video_id": "video7373", "alignment": 2, "fine-grained_alignment": {"motion direction": 3, "event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"412": {"video_id": "video8098", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"413": {"video_id": "video8514", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"414": {"video_id": "video8645", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"415": {"video_id": "video7657", "alignment": 3, "fine-grained_alignment": {"color": 3, "event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"416": {"video_id": "video9004", "alignment": 2, "fine-grained_alignment": {"color": 1, "event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"417": {"video_id": "video9789", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"418": {"video_id": "video8461", "alignment": 3, "fine-grained_alignment": {"quantity": 2, "event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"419": {"video_id": "video9373", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"420": {"video_id": "video9604", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 2, "temporal_quality": 2}}
+{"421": {"video_id": "video9267", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"422": {"video_id": "video9035", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"423": {"video_id": "video9682", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"424": {"video_id": "video7828", "alignment": 2, "fine-grained_alignment": {"color": 3, "event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"425": {"video_id": "video9861", "alignment": 2, "fine-grained_alignment": {"quantity": 2, "event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"426": {"video_id": "video9283", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"427": {"video_id": "video9172", "alignment": 4, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"428": {"video_id": "video7169", "alignment": 3, "fine-grained_alignment": {"event order": 2}, "static_quality": 2, "temporal_quality": 3}}
+{"429": {"video_id": "video7925", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"430": {"video_id": "video8949", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 2, "temporal_quality": 2}}
+{"431": {"video_id": "video7847", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"432": {"video_id": "video9612", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"433": {"video_id": "video7505", "alignment": 3, "fine-grained_alignment": {"color": 3, "event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"434": {"video_id": "video7130", "alignment": 3, "fine-grained_alignment": {"event order": 2}, "static_quality": 4, "temporal_quality": 5}}
+{"435": {"video_id": "video7208", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"436": {"video_id": "video9705", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"437": {"video_id": "video7285", "alignment": 3, "fine-grained_alignment": {"event order": 2}, "static_quality": 3, "temporal_quality": 4}}
+{"438": {"video_id": "video7838", "alignment": 2, "fine-grained_alignment": {"color": 3, "event order": 1}, "static_quality": 3, "temporal_quality": 5}}
+{"439": {"video_id": "video8562", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"440": {"video_id": "video9206", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"441": {"video_id": "video8415", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"442": {"video_id": "video9246", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"443": {"video_id": "video8011", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"444": {"video_id": "video7646", "alignment": 3, "fine-grained_alignment": {"motion direction": 3, "event order": 2}, "static_quality": 3, "temporal_quality": 4}}
+{"445": {"video_id": "video7982", "alignment": 2, "fine-grained_alignment": {"motion direction": 1, "event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"446": {"video_id": "video9396", "alignment": 2, "fine-grained_alignment": {"color": 3, "event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"447": {"video_id": "video8820", "alignment": 3, "fine-grained_alignment": {"event order": 2}, "static_quality": 2, "temporal_quality": 2}}
+{"448": {"video_id": "video9511", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"449": {"video_id": "video7120", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 5}}
+{"450": {"video_id": "video9800", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"451": {"video_id": "video8049", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"452": {"video_id": "video9949", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"453": {"video_id": "video7773", "alignment": 4, "fine-grained_alignment": {"speed": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"454": {"video_id": "1046811919", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"455": {"video_id": "4820618", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"456": {"video_id": "video7907", "alignment": 3, "fine-grained_alignment": {"speed": 1}, "static_quality": 3, "temporal_quality": 2}}
+{"457": {"video_id": "33775864", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"458": {"video_id": "video9535", "alignment": 2, "fine-grained_alignment": {"speed": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"459": {"video_id": "22745125", "alignment": 4, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"460": {"video_id": "video9785", "alignment": 3, "fine-grained_alignment": {"speed": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"461": {"video_id": "7239478", "alignment": 3, "fine-grained_alignment": {"speed": 3}, "static_quality": 2, "temporal_quality": 3}}
+{"462": {"video_id": "1025452520", "alignment": 4, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 4}}
+{"463": {"video_id": "24124315", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"464": {"video_id": "29850940", "alignment": 3, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"465": {"video_id": "1027784972", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"466": {"video_id": "28993030", "alignment": 3, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"467": {"video_id": "9032293", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"468": {"video_id": "video7922", "alignment": 3, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"469": {"video_id": "29776354", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"470": {"video_id": "1034525732", "alignment": 5, "fine-grained_alignment": {"color": 3, "quantity": 3, "speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"471": {"video_id": "video9828", "alignment": 3, "fine-grained_alignment": {"speed": 1}, "static_quality": 2, "temporal_quality": 4}}
+{"472": {"video_id": "1030671290", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"473": {"video_id": "1058682553", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"474": {"video_id": "video7219", "alignment": 4, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 2, "temporal_quality": 3}}
+{"475": {"video_id": "1046181988", "alignment": 3, "fine-grained_alignment": {"camera view": 3, "speed": 3}, "static_quality": 2, "temporal_quality": 4}}
+{"476": {"video_id": "1013785331", "alignment": 3, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"477": {"video_id": "1044893767", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 2, "temporal_quality": 3}}
+{"478": {"video_id": "1012198679", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"479": {"video_id": "16570585", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"480": {"video_id": "video8134", "alignment": 4, "fine-grained_alignment": {"color": 3, "motion direction": 1, "speed": 2}, "static_quality": 5, "temporal_quality": 5}}
+{"481": {"video_id": "25857191", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"482": {"video_id": "10307438", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"483": {"video_id": "1019945827", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"484": {"video_id": "22094284", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"485": {"video_id": "1054004354", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"486": {"video_id": "6824602", "alignment": 3, "fine-grained_alignment": {"speed": 3, "event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"487": {"video_id": "1031316449", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"488": {"video_id": "video8335", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"489": {"video_id": "1059973139", "alignment": 5, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"490": {"video_id": "33121072", "alignment": 5, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"491": {"video_id": "1016726785", "alignment": 3, "fine-grained_alignment": {"quantity": 3, "speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"492": {"video_id": "1058298241", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"493": {"video_id": "video7126", "alignment": 3, "fine-grained_alignment": {"camera view": 1, "speed": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"494": {"video_id": "30775195", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 4}}
+{"495": {"video_id": "video8483", "alignment": 3, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"496": {"video_id": "1053617687", "alignment": 4, "fine-grained_alignment": {"color": 3, "camera view": 2, "speed": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"497": {"video_id": "1034738246", "alignment": 1, "fine-grained_alignment": {"speed": 1, "motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"498": {"video_id": "12235463", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 5}}
+{"499": {"video_id": "video8312", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"500": {"video_id": "1035770345", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"501": {"video_id": "1010705264", "alignment": 4, "fine-grained_alignment": {"speed": 3, "motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"502": {"video_id": "5615807", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"503": {"video_id": "25850810", "alignment": 5, "fine-grained_alignment": {"color": 3, "camera view": 3, "speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"504": {"video_id": "31589938", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "speed": 2}, "static_quality": 4, "temporal_quality": 4}}
+{"505": {"video_id": "video7530", "alignment": 3, "fine-grained_alignment": {"speed": 1}, "static_quality": 5, "temporal_quality": 4}}
+{"506": {"video_id": "1056292478", "alignment": 4, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"507": {"video_id": "16840741", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"508": {"video_id": "1013472014", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"509": {"video_id": "1021721896", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"510": {"video_id": "9875933", "alignment": 5, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 3}}
+{"511": {"video_id": "1026864629", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 5, "temporal_quality": 5}}
+{"512": {"video_id": "1013933879", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"513": {"video_id": "1064387446", "alignment": 3, "fine-grained_alignment": {"speed": 3, "motion direction": 1}, "static_quality": 5, "temporal_quality": 4}}
+{"514": {"video_id": "1052546462", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "speed": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"515": {"video_id": "video7255", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"516": {"video_id": "video8687", "alignment": 3, "fine-grained_alignment": {"speed": 2}, "static_quality": 2, "temporal_quality": 4}}
+{"517": {"video_id": "video8768", "alignment": 3, "fine-grained_alignment": {"speed": 1}, "static_quality": 2, "temporal_quality": 2}}
+{"518": {"video_id": "video7275", "alignment": 4, "fine-grained_alignment": {"speed": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"519": {"video_id": "video9526", "alignment": 2, "fine-grained_alignment": {"speed": 1, "event order": 1}, "static_quality": 3, "temporal_quality": 2}}
+{"520": {"video_id": "video8431", "alignment": 2, "fine-grained_alignment": {"color": 2, "speed": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"521": {"video_id": "1010134583", "alignment": 4, "fine-grained_alignment": {"camera view": 3, "speed": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"522": {"video_id": "video8535", "alignment": 4, "fine-grained_alignment": {"speed": 1}, "static_quality": 2, "temporal_quality": 2}}
+{"523": {"video_id": "video8457", "alignment": 3, "fine-grained_alignment": {"speed": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"524": {"video_id": "16643371", "alignment": 3, "fine-grained_alignment": {"color": 3, "speed": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"525": {"video_id": "26733235", "alignment": 4, "fine-grained_alignment": {"color": 3, "speed": 3, "motion direction": 1}, "static_quality": 5, "temporal_quality": 4}}
+{"526": {"video_id": "video8034", "alignment": 3, "fine-grained_alignment": {"color": 3, "speed": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"527": {"video_id": "video7868", "alignment": 2, "fine-grained_alignment": {"color": 1, "speed": 1, "motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"528": {"video_id": "video7197", "alignment": 3, "fine-grained_alignment": {"speed": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"529": {"video_id": "video7872", "alignment": 4, "fine-grained_alignment": {"color": 3, "speed": 3, "motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"530": {"video_id": "video8694", "alignment": 4, "fine-grained_alignment": {"color": 3, "speed": 3}, "static_quality": 4, "temporal_quality": 3}}
+{"531": {"video_id": "None", "alignment": 4, "static_quality": 4, "temporal_quality": 3}}
+{"532": {"video_id": "None", "alignment": 3, "static_quality": 4, "temporal_quality": 4}}
+{"533": {"video_id": "None", "alignment": 4, "static_quality": 4, "temporal_quality": 4}}
+{"534": {"video_id": "None", "alignment": 4, "static_quality": 4, "temporal_quality": 5}}
+{"535": {"video_id": "None", "alignment": 2, "static_quality": 5, "temporal_quality": 4}}
+{"536": {"video_id": "None", "alignment": 3, "static_quality": 3, "temporal_quality": 5}}
+{"537": {"video_id": "None", "alignment": 3, "static_quality": 3, "temporal_quality": 3}}
+{"538": {"video_id": "None", "alignment": 2, "static_quality": 3, "temporal_quality": 4}}
+{"539": {"video_id": "None", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"540": {"video_id": "None", "alignment": 2, "static_quality": 4, "temporal_quality": 3}}
+{"541": {"video_id": "None", "alignment": 2, "static_quality": 4, "temporal_quality": 4}}
+{"542": {"video_id": "None", "alignment": 2, "static_quality": 4, "temporal_quality": 4}}
+{"543": {"video_id": "None", "alignment": 2, "static_quality": 3, "temporal_quality": 3}}
+{"544": {"video_id": "None", "alignment": 3, "static_quality": 4, "temporal_quality": 3}}
+{"545": {"video_id": "None", "alignment": 3, "static_quality": 4, "temporal_quality": 4}}
+{"546": {"video_id": "None", "alignment": 2, "static_quality": 5, "temporal_quality": 5}}
+{"547": {"video_id": "None", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"548": {"video_id": "None", "alignment": 3, "static_quality": 4, "temporal_quality": 4}}
+{"549": {"video_id": "None", "alignment": 2, "static_quality": 2, "temporal_quality": 4}}
+{"550": {"video_id": "None", "alignment": 4, "static_quality": 4, "temporal_quality": 5}}
+{"551": {"video_id": "None", "alignment": 2, "static_quality": 5, "temporal_quality": 5}}
+{"552": {"video_id": "None", "alignment": 3, "static_quality": 4, "temporal_quality": 3}}
+{"553": {"video_id": "None", "alignment": 3, "static_quality": 4, "temporal_quality": 4}}
+{"554": {"video_id": "None", "alignment": 5, "static_quality": 3, "temporal_quality": 4}}
+{"555": {"video_id": "None", "alignment": 3, "static_quality": 4, "temporal_quality": 4}}
+{"556": {"video_id": "None", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 3}}
+{"557": {"video_id": "None", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"558": {"video_id": "None", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"559": {"video_id": "None", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"560": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"561": {"video_id": "None", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 3}}
+{"562": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"563": {"video_id": "None", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"564": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"565": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 2, "temporal_quality": 2}}
+{"566": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"567": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"568": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"quantity": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"569": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"quantity": 2}, "static_quality": 4, "temporal_quality": 4}}
+{"570": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"quantity": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"571": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"speed": 2}, "static_quality": 3, "temporal_quality": 3}}
+{"572": {"video_id": "None", "alignment": 4, "fine-grained_alignment": {"speed": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"573": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"speed": 2}, "static_quality": 5, "temporal_quality": 5}}
+{"574": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"speed": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"575": {"video_id": "None", "alignment": 1, "fine-grained_alignment": {"speed": 1}, "static_quality": 2, "temporal_quality": 4}}
+{"576": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"speed": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"577": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 2, "temporal_quality": 3}}
+{"578": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"579": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 2, "temporal_quality": 2}}
+{"580": {"video_id": "None", "alignment": 1, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 2, "temporal_quality": 2}}
+{"581": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"582": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"583": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"584": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"585": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"586": {"video_id": "None", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"587": {"video_id": "None", "alignment": 2, "static_quality": 3, "temporal_quality": 3}}
+{"588": {"video_id": "None", "alignment": 2, "static_quality": 4, "temporal_quality": 4}}
+{"589": {"video_id": "None", "alignment": 2, "static_quality": 3, "temporal_quality": 3}}
+{"590": {"video_id": "None", "alignment": 3, "static_quality": 2, "temporal_quality": 2}}
+{"591": {"video_id": "None", "alignment": 1, "static_quality": 4, "temporal_quality": 4}}
+{"592": {"video_id": "None", "alignment": 4, "static_quality": 2, "temporal_quality": 2}}
+{"593": {"video_id": "None", "alignment": 5, "static_quality": 2, "temporal_quality": 3}}
+{"594": {"video_id": "None", "alignment": 5, "static_quality": 4, "temporal_quality": 4}}
+{"595": {"video_id": "None", "alignment": 2, "static_quality": 4, "temporal_quality": 3}}
+{"596": {"video_id": "None", "alignment": 3, "static_quality": 3, "temporal_quality": 3}}
+{"597": {"video_id": "None", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}
+{"598": {"video_id": "None", "alignment": 3, "static_quality": 4, "temporal_quality": 3}}
+{"599": {"video_id": "None", "alignment": 2, "static_quality": 3, "temporal_quality": 3}}
+{"600": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"601": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 5, "temporal_quality": 5}}
+{"602": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"603": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"604": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 4}}
+{"605": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"606": {"video_id": "None", "alignment": 3, "fine-grained_alignment": {"event order": 1}, "static_quality": 3, "temporal_quality": 3}}
+{"607": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 5, "temporal_quality": 4}}
+{"608": {"video_id": "None", "alignment": 2, "fine-grained_alignment": {"event order": 1}, "static_quality": 4, "temporal_quality": 5}}
+{"609": {"video_id": "1023259639", "alignment": 3, "static_quality": 4, "temporal_quality": 5}}
+{"610": {"video_id": "32010295", "alignment": 4, "static_quality": 3, "temporal_quality": 5}}
+{"611": {"video_id": "1033484960", "alignment": 4, "fine-grained_alignment": {"color": 3}, "static_quality": 4, "temporal_quality": 4}}
+{"612": {"video_id": "1059935687", "alignment": 5, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 5}}
+{"613": {"video_id": "1040853377", "alignment": 3, "fine-grained_alignment": {"color": 3}, "static_quality": 3, "temporal_quality": 4}}
+{"614": {"video_id": "1040085500", "alignment": 4, "static_quality": 4, "temporal_quality": 4}}
+{"615": {"video_id": "22570036", "alignment": 3, "fine-grained_alignment": {"motion direction": 1}, "static_quality": 3, "temporal_quality": 4}}
+{"616": {"video_id": "1052745272", "alignment": 4, "static_quality": 3, "temporal_quality": 4}}
+{"617": {"video_id": "1058614837", "alignment": 3, "static_quality": 3, "temporal_quality": 3}}
+{"618": {"video_id": "1063082371", "alignment": 3, "static_quality": 3, "temporal_quality": 4}}

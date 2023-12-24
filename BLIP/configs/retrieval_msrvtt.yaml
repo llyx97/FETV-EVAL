@@ -1,0 +1,13 @@
+video_root: '/home/liuyuanxin/cogvideo/file_input_output/msrvtt_webvid/videos'
+ann_root: '/home/liuyuanxin/text2video-eval/datas/WebVid_MSRVTT/filtered_data/'
+
+# set pretrained as a file path or an url
+# pretrained: 'https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_retrieval_coco.pth'
+pretrained: '/home/liuyuanxin/BLIP/pre-trained-models/model_base_retrieval_coco.pth'
+
+# size of vit model; base or large
+vit: 'base'
+batch_size: 32
+k_test: 128
+image_size: 384
+num_frm_test: 8
