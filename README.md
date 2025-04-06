@@ -56,12 +56,15 @@ path_of_processed_frames
   
 
 ### 1.2 Collect Reference Real Videos
+We collect reference real videos from MSR-VTT and WebVid. The videos corresponding to the prompts in `datas/fetv_data.json` are provided in this [huggingface dataset](https://huggingface.co/datasets/lyx97/FETV_gen_videos/blob/main/real_videos.zip).
+
+<details>
+<summary>If you want to download and process the videos yourself, follow these steps:</summary>
 * Download the real videos from MSR-VTT using the [script](https://github.com/jayleicn/ClipBERT/blob/main/scripts/download_msrvtt.sh) provided by [ClipBERT](https://github.com/jayleicn/ClipBERT) and then copy them to `real_videos` using `utils/collect_real_video.py`.
 * Download the real videos from WebVid to `real_videos` using the script `utils/collect_real_video.py`.
 * Cut some videos using the script `utils/cut_video.py`.
 * To collect the real videos for computing FID and FVD, run the script `utils/collect_real_video.py` (change the video_id_file from `datas/fetv_data.json` to `datas/sampled_prompts_for_fid_fvd/prompts_real.json`.). The videos will be saved to `datas/videos/real_videos_fid`.
-  
-**NOTE**: You can also contact liuyuanxin@stu.pku.edu.cn to access the reference real videos.
+</details>
 
 
 ## 2. Manual Evaluation
